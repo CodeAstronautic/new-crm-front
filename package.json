@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --mode development --inline --progress",
-    "build": "webpack --mode production",
+    "build": "react-scripts build",
     "dev": "webpack-dev-server",
     "production": "webpack --mode production"
   },
